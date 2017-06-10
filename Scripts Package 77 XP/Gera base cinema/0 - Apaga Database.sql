@@ -1,0 +1,2 @@
+DROP DATABASE cinema
+go

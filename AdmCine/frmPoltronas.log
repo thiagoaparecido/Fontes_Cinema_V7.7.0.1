@@ -1,0 +1,12 @@
+Line 281: Class FPSpread.vaSpread of control gridPoltronas was not a loaded control class.
+Line 287: The property name _Version in gridPoltronas is invalid.
+Line 288: The property name _ExtentX in gridPoltronas is invalid.
+Line 289: The property name _ExtentY in gridPoltronas is invalid.
+Line 290: The property name _StockProps in gridPoltronas is invalid.
+Line 291: The property name DisplayColHeaders in gridPoltronas is invalid.
+Line 292: The property name DisplayRowHeaders in gridPoltronas is invalid.
+Line 302: The property name MaxCols in gridPoltronas is invalid.
+Line 303: The property name MaxRows in gridPoltronas is invalid.
+Line 304: The property name SpreadDesigner in gridPoltronas is invalid.
+Line 305: The property name UnitType in gridPoltronas is invalid.
+Line 306: The property name UserResize in gridPoltronas is invalid.

@@ -1,0 +1,17 @@
+clsMovto = 0, 0, 0, 0, C
+clsMovtos = 0, 0, 0, 0, C
+MDIFrmAdmCentral = 0, 0, 0, 0, C, 50, 50, 1099, 713, C
+frmImporta = 75, 75, 976, 718, , 100, 100, 1149, 763, C
+modAdmCentral = 0, 0, 0, 0, C
+clsImportMovto = 154, 203, 1389, 854, 
+frmLog = 0, 0, 0, 0, C, 125, 125, 1174, 788, C
+frmExpurgo = 0, 0, 0, 0, C, 75, 75, 1124, 738, C
+frmBackup = 0, 0, 0, 0, C, 25, 25, 1074, 688, C
+frmRestor = 0, 0, 0, 0, C, 200, 200, 1249, 863, C
+frmBordero = 0, 0, 0, 0, C, 50, 50, 1099, 713, C
+frmOcupacao = 0, 0, 0, 0, C, 150, 150, 1199, 813, C
+frmVendasFilme = 0, 0, 0, 0, C, 275, 275, 1324, 938, C
+frmVendasPublico = 0, 0, 0, 0, C, 300, 300, 1349, 963, C
+modGenerico = 125, 125, 1026, 768, Z
+clsExpurgo = 100, 100, 1001, 743, 
+clsLog = 0, 0, 0, 0, C
